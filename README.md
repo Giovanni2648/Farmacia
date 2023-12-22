@@ -1,9 +1,1 @@
-# Farmacia
-<<<<<<< HEAD
-# Farmacia
-# Farmacia
-# Farmacia
-=======
-CRUD para una farmacia
->>>>>>> ea1367d763f2b5693aaac268333d7972a4329ae2
-# Farmacia
+This project include a CRUD with php native, a login system and pdf data export
