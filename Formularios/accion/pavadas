@@ -1,0 +1,25 @@
+<?php
+$variable = "cualquier valor";
+
+if()
+{
+
+}
+else{
+
+}
+for($i = 0; $<5; $i++)
+{
+
+}
+
+while()
+{
+
+}
+$_POST['nombre_input'];
+$_GET['nombre_input'];
+?>
+<form action="" method="GET">
+    <input type="text" name="nombre_input">
+</form>
